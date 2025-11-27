@@ -1,6 +1,6 @@
 # Cod Reducere Libris
 
-O colecție de coduri de reducere Libris. Le folosim pentru testarea cuvintelor cheie cod reducere Libris, voucher Libris, cupon Libris, și cod promotional Libris de pe Cuponescu.ro.
+O colecție de coduri de reducere Libris. Le folosim pentru testarea cuvintelor cheie [cod reducere Libris](https://cuponescu.ro/magazin/libris), [voucher Libris](https://cuponescu.ro/magazin/libris), [cupon Libris](https://cuponescu.ro/magazin/libris), și [cod promotional Libris](https://cuponescu.ro/magazin/libris) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-libris a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
