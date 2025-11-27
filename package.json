@@ -1,0 +1,26 @@
+{
+  "name": "cod-reducere-libris",
+  "version": "1.0.0",
+  "description": "O colecție de coduri de reducere Libris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cod reducere",
+    "voucher",
+    "cupon",
+    "cod promotional",
+    "libris",
+    "reduceri",
+    "cuponescu"
+  ],
+  "author": "Cuponescu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianCuponescu/cod-reducere-libris.git"
+  },
+  "homepage": "https://www.cuponescu.ro"
+}
+
